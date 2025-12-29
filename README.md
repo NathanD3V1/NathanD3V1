@@ -18,7 +18,7 @@ Seja bem-vindo ao meu perfil! Sou um desenvolvedor júnior apaixonado por progra
 
 ## 📈 Meu gráfico de uso de linguagens
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanD3V1&layout=compact&hide_border=true&langs_count=6&theme=radical)](https://github.com/NathanD3V1)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanD3V1&layout=compact&hide_border=true&langs_count=6&theme=radical&hub.com/NathanD3V1)
 
 ## Jogo da Cobrinha
 <div align="center">
