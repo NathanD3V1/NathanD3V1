@@ -16,6 +16,13 @@ Desenvolvedor focado em **performance** e **segurança**. Atualmente focado no e
 
 ---
 
+### 📊 3D Contributions (Isometric View)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NathanD3V1/NathanD3V1/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions City" />
+</p>
+
+---
+
 ### 🛠️ Tech Stack & Ferramentas
 
 #### 💻 Linguagens & Frameworks
@@ -40,7 +47,7 @@ Desenvolvedor focado em **performance** e **segurança**. Atualmente focado no e
 
 ---
 
-### 📊 Estatísticas e Performance
+### 📈 Estatísticas Adicionais
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanD3V1&layout=compact&theme=dracula&hide_border=true&title_color=A97BFF&icon_color=A97BFF" />
