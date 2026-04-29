@@ -1,7 +1,7 @@
 # <h1 align="center">Nathan Ramos 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A97BFF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Cybersecurity+Student;Arduino+Enthusiast;Building+Secure+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A97BFF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Cybersecurity+Student;Arduino+Enthusiast;Building+Secure+Solutions" alt="Nathan Ramos Typing" />
 </p>
 
 ---
@@ -44,11 +44,14 @@ Desenvolvedor focado em **performance** e **segurança**. Atualmente focado no e
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanD3V1&layout=compact&theme=dracula&hide_border=true&title_color=A97BFF&icon_color=A97BFF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NathanD3V1&show_icons=true&theme=dracula&count_private=true&hide_border=true&title_color=A97BFF&icon_color=A97BFF" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=NathanD3V1&theme=dracula&hide_border=true&stroke=A97BFF&ring=A97BFF&fire=A97BFF&currStreakNum=A97BFF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NathanD3V1&show_icons=true&theme=dracula&hide_border=true&title_color=A97BFF" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=NathanD3V1&theme=dracula&hide_border=true&stroke=A97BFF&ring=A97BFF&fire=A97BFF" />
 </p>
 
 ---
@@ -70,5 +73,5 @@ Desenvolvedor focado em **performance** e **segurança**. Atualmente focado no e
 <br />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Perfil_Views-A97BFF?style=flat-square&logo=github&labelColor=333333" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=NathanD3V1&color=A97BFF&style=for-the-badge" alt="Views" />
 </p>
