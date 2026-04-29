@@ -13,33 +13,24 @@ Desenvolvedor focado em performance e segurança. Atualmente focado no ecossiste
 - ☁️ Foco Técnico: **AWS / Azure / Docker**
 - 🛡️ Especialidade: **Desenvolvimento Seguro & OWASP**
 
----
+### 📊 Médias de Desenvolvimento
+*Análise automática da minha experiência por linguagem:*
 
-### 🚀 Tech Stack & Skills
-
-#### 💻 Linguagens
-- **JavaScript / TypeScript**  
-  `![90%](https://progress-bar.dev/90/?scale=100&title=JS/TS&width=300&color=F7DF1E)`
-- **Python**  
-  `![80%](https://progress-bar.dev/80/?scale=100&title=Python&width=300&color=3776AB)`
-- **C# / .NET**  
-  `![70%](https://progress-bar.dev/70/?scale=100&title=C#&width=300&color=239120)`
-- **Java**  
-  `![65%](https://progress-bar.dev/65/?scale=100&title=Java&width=300&color=ED8B00)`
-
-#### 🛠️ Ferramentas & Infra
-`MySQL` • `Git` • `Docker` • `Arduino` • `Postman` • `Linux`
-
----
-
-### 🕹️ Estatísticas (2D Game Style)
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NathanD3V1&show_icons=true&theme=pacman&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanD3V1&layout=compact&theme=pacman&hide_border=true&hide=html" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanD3V1&layout=compact&theme=dracula&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NathanD3V1&show_icons=true&theme=dracula&count_private=true&hide_border=true" />
 </p>
 
+---
+
+### 🛠️ Tech Stack & Ferramentas
+`JavaScript` • `TypeScript` • `Python` • `C#` • `Java` • `C++` • `MySQL` • `Git` • `Docker` • `Arduino` • `Linux` • `AWS`
+
+---
+
+### 🕹️ Score Board (2D Stats)
 <p align="center">
-  <img height="150em" src="https://github-readme-streak-stats.demolab.com/?user=NathanD3V1&theme=pacman&hide_border=true" />
+  <img height="150em" src="https://github-readme-streak-stats.demolab.com/?user=NathanD3V1&theme=dracula&hide_border=true" />
 </p>
 
 ---
