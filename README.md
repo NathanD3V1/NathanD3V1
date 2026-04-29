@@ -51,7 +51,7 @@ Desenvolvedor focado em **performance** e **segurança**. Atualmente focado no e
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=NathanD3V1&theme=dracula&hide_border=true&stroke=A97BFF&ring=A97BFF&fire=A97BFF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NathanD3V1&theme=dracula&hide_border=true" />
 </p>
 
 ---
