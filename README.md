@@ -50,10 +50,6 @@ Desenvolvedor focado em **performance** e **segurança**. Atualmente focado no e
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NathanD3V1&show_icons=true&theme=dracula&hide_border=true&title_color=A97BFF" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NathanD3V1&theme=dracula&hide_border=true" />
-</p>
-
 ---
 
 ### 🤝 Conecte-se comigo
@@ -73,5 +69,5 @@ Desenvolvedor focado em **performance** e **segurança**. Atualmente focado no e
 <br />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NathanD3V1&color=A97BFF&style=for-the-badge" alt="Views" />
+  <img src="https://img.shields.io/badge/Profile_Views-A97BFF?style=for-the-badge&logo=github&labelColor=333333" alt="Views" />
 </p>
