@@ -47,14 +47,10 @@ Desenvolvedor focado em **performance** e **segurança**. Atualmente focado no e
 
 ---
 
-### 📈 Estatísticas Adicionais
+### 📈 Atividade no GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=NathanD3V1&theme=dracula&hide_border=true&ring=A97BFF&fire=A97BFF&currStreakLabel=A97BFF&sideLabels=A97BFF" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NathanD3V1&theme=dracula&no-frame=true&column=6&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NathanD3V1&bg_color=282a36&color=A97BFF&line=A97BFF&point=f8f8f2&area=true&area_color=A97BFF&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
