@@ -50,11 +50,11 @@ Desenvolvedor focado em **performance** e **segurança**. Atualmente focado no e
 ### 📈 Estatísticas Adicionais
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanD3V1&layout=compact&theme=dracula&hide_border=true&title_color=A97BFF&icon_color=A97BFF" />
+  <img src="https://streak-stats.demolab.com?user=NathanD3V1&theme=dracula&hide_border=true&ring=A97BFF&fire=A97BFF&currStreakLabel=A97BFF&sideLabels=A97BFF" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NathanD3V1&show_icons=true&theme=dracula&hide_border=true&title_color=A97BFF" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NathanD3V1&theme=dracula&no-frame=true&column=6&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---
