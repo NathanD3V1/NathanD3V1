@@ -7,7 +7,7 @@
 ---
 
 ### 🧑‍💻 Sobre Mim
-Desenvolvedor focado em **performance** e **segurança**. Atualmente focado no ecossistema **Full-Stack** e estudos avançados em **Segurança da Informação**.
+Desenvolvedor focado em **performance** e **segurança**. Atualmente focado no ecossistema **Back-end** e estudos avançados em **Segurança da Informação**.
 
 - 🔭 Projeto Atual: **Sismonit - Gestão de Ocorrências**
 - ☁️ Foco Técnico: **AWS / Azure / Docker**
