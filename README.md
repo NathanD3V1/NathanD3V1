@@ -99,14 +99,14 @@ disponível: Freelancer — sites modernos, rápidos e pensados para resultados
 
 <p align="center">
   <a href="https://github.com/NathanD3V1">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NathanD3V1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A97BFF&icon_color=A97BFF&text_color=f8f8f2&ring_color=A97BFF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanD3V1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A97BFF&text_color=f8f8f2&langs_count=8" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NathanD3V1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A97BFF&icon_color=A97BFF&text_color=f8f8f2&ring_color=A97BFF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NathanD3V1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A97BFF&text_color=f8f8f2&langs_count=8" alt="Top Languages" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/NathanD3V1">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NathanD3V1&theme=tokyonight&hide_border=true&background=0d1117&stroke=A97BFF&ring=A97BFF&fire=A97BFF&currStreakLabel=A97BFF&sideLabels=f8f8f2&currStreakNum=f8f8f2&sideNums=f8f8f2&dates=7957d5" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=NathanD3V1&theme=tokyonight&hide_border=true&background=0d1117&stroke=A97BFF&ring=A97BFF&fire=A97BFF&currStreakLabel=A97BFF&sideLabels=f8f8f2&currStreakNum=f8f8f2&sideNums=f8f8f2&dates=7957d5" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -148,19 +148,19 @@ disponível: Freelancer — sites modernos, rápidos e pensados para resultados
 
 <p align="center">
   <a href="https://github.com/NathanD3V1/Sistema_de_Gestao">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NathanD3V1&repo=Sistema_de_Gestao&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A97BFF&icon_color=A97BFF&text_color=f8f8f2" alt="Sistema de Gestão" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=NathanD3V1&repo=Sistema_de_Gestao&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A97BFF&icon_color=A97BFF&text_color=f8f8f2" alt="Sistema de Gestão" />
   </a>
   <a href="https://github.com/NathanD3V1/streaming">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NathanD3V1&repo=streaming&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A97BFF&icon_color=A97BFF&text_color=f8f8f2" alt="Streaming" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=NathanD3V1&repo=streaming&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A97BFF&icon_color=A97BFF&text_color=f8f8f2" alt="Streaming" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/NathanD3V1/Transferidor-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NathanD3V1&repo=Transferidor-&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A97BFF&icon_color=A97BFF&text_color=f8f8f2" alt="Transferidor" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=NathanD3V1&repo=Transferidor-&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A97BFF&icon_color=A97BFF&text_color=f8f8f2" alt="Transferidor" />
   </a>
   <a href="https://github.com/NathanD3V1/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NathanD3V1&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A97BFF&icon_color=A97BFF&text_color=f8f8f2" alt="Portfolio — Cafeterapia & mais" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=NathanD3V1&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A97BFF&icon_color=A97BFF&text_color=f8f8f2" alt="Portfolio — Cafeterapia & mais" />
   </a>
 </p>
 
